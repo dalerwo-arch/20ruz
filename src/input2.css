@@ -1,0 +1,25 @@
+.q{
+    background-image: url(./Rectangle\ \(8\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 850px;
+    margin-top: 30px;
+}
+
+.w{
+    background-image: url(./Rectangle\ \(15\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%; 
+    height: 2432px;
+}
+
+.e{
+    background-image: url(./Rectangle\ \(16\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    color: white;
+    height: 850px;
+}
