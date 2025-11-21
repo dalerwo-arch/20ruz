@@ -301,6 +301,9 @@
   .w-\[176px\] {
     width: 176px;
   }
+  .w-\[200px\] {
+    width: 200px;
+  }
   .w-\[216px\] {
     width: 216px;
   }
@@ -439,6 +442,10 @@
   .text-7xl {
     font-size: var(--text-7xl);
     line-height: var(--tw-leading, var(--text-7xl--line-height));
+  }
+  .text-xl {
+    font-size: var(--text-xl);
+    line-height: var(--tw-leading, var(--text-xl--line-height));
   }
   .text-\[0px\] {
     font-size: 0px;
